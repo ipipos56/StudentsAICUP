@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MyCodeV2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MyCodeV2">
+				<Option output="D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/MyCodeV2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWIN32"/>
+					<Add directory="D:/Git/StudentsAICUP/MyCodeV2/."/>
+					<Add directory="D:/MinGW/include"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 MyCodeV2"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MyCodeV2/fast">
+				<Option output="D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/MyCodeV2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWIN32"/>
+					<Add directory="D:/Git/StudentsAICUP/MyCodeV2/."/>
+					<Add directory="D:/MinGW/include"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 MyCodeV2/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/Git/StudentsAICUP/MyCodeV2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/MyStrategy.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/MyStrategy.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/Stream.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/Stream.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/TcpStream.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/TcpStream.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/codegame/ClientMessage.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/codegame/ClientMessage.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/codegame/ServerMessage.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/codegame/ServerMessage.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/debugging/DebugCommand.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/debugging/DebugCommand.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/main.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Action.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Action.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Building.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Building.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/BuildingAction.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/BuildingAction.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/BuildingProperties.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/BuildingProperties.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/BuildingType.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/BuildingType.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/DebugData.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/DebugData.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/FlyingWorkerGroup.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/FlyingWorkerGroup.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Game.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Game.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/MoveAction.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/MoveAction.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Planet.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Planet.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Player.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Player.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Resource.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/Resource.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/WorkerGroup.cpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/model/WorkerGroup.hpp">
+			<Option target="MyCodeV2"/>
+		</Unit>
+		<Unit filename="D:/Git/StudentsAICUP/MyCodeV2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

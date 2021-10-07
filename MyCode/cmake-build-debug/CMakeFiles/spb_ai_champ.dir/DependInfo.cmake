@@ -1,33 +1,29 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
   "CXX"
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/MyStrategy.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/MyStrategy.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/Stream.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/Stream.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/TcpStream.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/TcpStream.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/codegame/ClientMessage.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/codegame/ClientMessage.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/codegame/ServerMessage.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/codegame/ServerMessage.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/debugging/DebugCommand.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/debugging/DebugCommand.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/main.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/main.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Action.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Action.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Building.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Building.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingAction.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingAction.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingProperties.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingProperties.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingType.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingType.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/DebugData.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/DebugData.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/FlyingWorkerGroup.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/FlyingWorkerGroup.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Game.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Game.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/MoveAction.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/MoveAction.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Planet.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Planet.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Player.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Player.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Resource.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Resource.cpp.obj"
-  "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/WorkerGroup.cpp" "C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/WorkerGroup.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/MyStrategy.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/MyStrategy.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/Stream.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/Stream.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/TcpStream.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/TcpStream.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/codegame/ClientMessage.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/codegame/ClientMessage.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/codegame/ServerMessage.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/codegame/ServerMessage.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/debugging/DebugCommand.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/debugging/DebugCommand.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/main.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/main.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/Action.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Action.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/Building.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Building.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/BuildingAction.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingAction.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/BuildingProperties.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingProperties.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/BuildingType.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingType.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/DebugData.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/DebugData.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/FlyingWorkerGroup.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/FlyingWorkerGroup.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/Game.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Game.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/MoveAction.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/MoveAction.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/Planet.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Planet.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/Player.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Player.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/Resource.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Resource.cpp.obj"
+  "D:/Git/StudentsAICUP/MyCode/model/WorkerGroup.cpp" "D:/Git/StudentsAICUP/MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/WorkerGroup.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -39,10 +35,6 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../."
-  )
-
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
   )
 
 # Targets to which this target links.
