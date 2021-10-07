@@ -79,281 +79,281 @@ CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.obj: ../MyStrategy.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\MyStrategy.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\MyStrategy.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\MyStrategy.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\MyStrategy.cpp
 
 CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\MyStrategy.cpp > CMakeFiles\MyCodeV2.dir\MyStrategy.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\MyStrategy.cpp > CMakeFiles\MyCodeV2.dir\MyStrategy.cpp.i
 
 CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\MyStrategy.cpp -o CMakeFiles\MyCodeV2.dir\MyStrategy.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\MyStrategy.cpp -o CMakeFiles\MyCodeV2.dir\MyStrategy.cpp.s
 
 CMakeFiles/MyCodeV2.dir/Stream.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/Stream.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/Stream.cpp.obj: ../Stream.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyCodeV2.dir/Stream.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\Stream.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\Stream.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\Stream.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\Stream.cpp
 
 CMakeFiles/MyCodeV2.dir/Stream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/Stream.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\Stream.cpp > CMakeFiles\MyCodeV2.dir\Stream.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\Stream.cpp > CMakeFiles\MyCodeV2.dir\Stream.cpp.i
 
 CMakeFiles/MyCodeV2.dir/Stream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/Stream.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\Stream.cpp -o CMakeFiles\MyCodeV2.dir\Stream.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\Stream.cpp -o CMakeFiles\MyCodeV2.dir\Stream.cpp.s
 
 CMakeFiles/MyCodeV2.dir/TcpStream.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/TcpStream.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/TcpStream.cpp.obj: ../TcpStream.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyCodeV2.dir/TcpStream.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\TcpStream.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\TcpStream.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\TcpStream.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\TcpStream.cpp
 
 CMakeFiles/MyCodeV2.dir/TcpStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/TcpStream.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\TcpStream.cpp > CMakeFiles\MyCodeV2.dir\TcpStream.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\TcpStream.cpp > CMakeFiles\MyCodeV2.dir\TcpStream.cpp.i
 
 CMakeFiles/MyCodeV2.dir/TcpStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/TcpStream.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\TcpStream.cpp -o CMakeFiles\MyCodeV2.dir\TcpStream.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\TcpStream.cpp -o CMakeFiles\MyCodeV2.dir\TcpStream.cpp.s
 
 CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.obj: ../codegame/ClientMessage.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\codegame\ClientMessage.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\codegame\ClientMessage.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\codegame\ClientMessage.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\codegame\ClientMessage.cpp
 
 CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\codegame\ClientMessage.cpp > CMakeFiles\MyCodeV2.dir\codegame\ClientMessage.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\codegame\ClientMessage.cpp > CMakeFiles\MyCodeV2.dir\codegame\ClientMessage.cpp.i
 
 CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\codegame\ClientMessage.cpp -o CMakeFiles\MyCodeV2.dir\codegame\ClientMessage.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\codegame\ClientMessage.cpp -o CMakeFiles\MyCodeV2.dir\codegame\ClientMessage.cpp.s
 
 CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.obj: ../codegame/ServerMessage.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\codegame\ServerMessage.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\codegame\ServerMessage.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\codegame\ServerMessage.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\codegame\ServerMessage.cpp
 
 CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\codegame\ServerMessage.cpp > CMakeFiles\MyCodeV2.dir\codegame\ServerMessage.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\codegame\ServerMessage.cpp > CMakeFiles\MyCodeV2.dir\codegame\ServerMessage.cpp.i
 
 CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\codegame\ServerMessage.cpp -o CMakeFiles\MyCodeV2.dir\codegame\ServerMessage.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\codegame\ServerMessage.cpp -o CMakeFiles\MyCodeV2.dir\codegame\ServerMessage.cpp.s
 
 CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.obj: ../debugging/DebugCommand.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\debugging\DebugCommand.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\debugging\DebugCommand.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\debugging\DebugCommand.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\debugging\DebugCommand.cpp
 
 CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\debugging\DebugCommand.cpp > CMakeFiles\MyCodeV2.dir\debugging\DebugCommand.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\debugging\DebugCommand.cpp > CMakeFiles\MyCodeV2.dir\debugging\DebugCommand.cpp.i
 
 CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\debugging\DebugCommand.cpp -o CMakeFiles\MyCodeV2.dir\debugging\DebugCommand.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\debugging\DebugCommand.cpp -o CMakeFiles\MyCodeV2.dir\debugging\DebugCommand.cpp.s
 
 CMakeFiles/MyCodeV2.dir/main.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/main.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MyCodeV2.dir/main.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\main.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\main.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\main.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\main.cpp
 
 CMakeFiles/MyCodeV2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/main.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\main.cpp > CMakeFiles\MyCodeV2.dir\main.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\main.cpp > CMakeFiles\MyCodeV2.dir\main.cpp.i
 
 CMakeFiles/MyCodeV2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/main.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\main.cpp -o CMakeFiles\MyCodeV2.dir\main.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\main.cpp -o CMakeFiles\MyCodeV2.dir\main.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/Action.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/Action.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/Action.cpp.obj: ../model/Action.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MyCodeV2.dir/model/Action.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Action.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Action.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Action.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Action.cpp
 
 CMakeFiles/MyCodeV2.dir/model/Action.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/Action.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Action.cpp > CMakeFiles\MyCodeV2.dir\model\Action.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Action.cpp > CMakeFiles\MyCodeV2.dir\model\Action.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/Action.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/Action.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Action.cpp -o CMakeFiles\MyCodeV2.dir\model\Action.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Action.cpp -o CMakeFiles\MyCodeV2.dir\model\Action.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/Building.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/Building.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/Building.cpp.obj: ../model/Building.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MyCodeV2.dir/model/Building.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Building.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Building.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Building.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Building.cpp
 
 CMakeFiles/MyCodeV2.dir/model/Building.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/Building.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Building.cpp > CMakeFiles\MyCodeV2.dir\model\Building.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Building.cpp > CMakeFiles\MyCodeV2.dir\model\Building.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/Building.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/Building.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Building.cpp -o CMakeFiles\MyCodeV2.dir\model\Building.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Building.cpp -o CMakeFiles\MyCodeV2.dir\model\Building.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.obj: ../model/BuildingAction.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\BuildingAction.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\BuildingAction.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\BuildingAction.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\BuildingAction.cpp
 
 CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\BuildingAction.cpp > CMakeFiles\MyCodeV2.dir\model\BuildingAction.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\BuildingAction.cpp > CMakeFiles\MyCodeV2.dir\model\BuildingAction.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\BuildingAction.cpp -o CMakeFiles\MyCodeV2.dir\model\BuildingAction.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\BuildingAction.cpp -o CMakeFiles\MyCodeV2.dir\model\BuildingAction.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.obj: ../model/BuildingProperties.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\BuildingProperties.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\BuildingProperties.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\BuildingProperties.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\BuildingProperties.cpp
 
 CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\BuildingProperties.cpp > CMakeFiles\MyCodeV2.dir\model\BuildingProperties.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\BuildingProperties.cpp > CMakeFiles\MyCodeV2.dir\model\BuildingProperties.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\BuildingProperties.cpp -o CMakeFiles\MyCodeV2.dir\model\BuildingProperties.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\BuildingProperties.cpp -o CMakeFiles\MyCodeV2.dir\model\BuildingProperties.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.obj: ../model/BuildingType.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\BuildingType.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\BuildingType.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\BuildingType.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\BuildingType.cpp
 
 CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\BuildingType.cpp > CMakeFiles\MyCodeV2.dir\model\BuildingType.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\BuildingType.cpp > CMakeFiles\MyCodeV2.dir\model\BuildingType.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\BuildingType.cpp -o CMakeFiles\MyCodeV2.dir\model\BuildingType.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\BuildingType.cpp -o CMakeFiles\MyCodeV2.dir\model\BuildingType.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.obj: ../model/DebugData.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\DebugData.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\DebugData.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\DebugData.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\DebugData.cpp
 
 CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\DebugData.cpp > CMakeFiles\MyCodeV2.dir\model\DebugData.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\DebugData.cpp > CMakeFiles\MyCodeV2.dir\model\DebugData.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\DebugData.cpp -o CMakeFiles\MyCodeV2.dir\model\DebugData.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\DebugData.cpp -o CMakeFiles\MyCodeV2.dir\model\DebugData.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.obj: ../model/FlyingWorkerGroup.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\FlyingWorkerGroup.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\FlyingWorkerGroup.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\FlyingWorkerGroup.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\FlyingWorkerGroup.cpp
 
 CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\FlyingWorkerGroup.cpp > CMakeFiles\MyCodeV2.dir\model\FlyingWorkerGroup.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\FlyingWorkerGroup.cpp > CMakeFiles\MyCodeV2.dir\model\FlyingWorkerGroup.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\FlyingWorkerGroup.cpp -o CMakeFiles\MyCodeV2.dir\model\FlyingWorkerGroup.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\FlyingWorkerGroup.cpp -o CMakeFiles\MyCodeV2.dir\model\FlyingWorkerGroup.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/Game.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/Game.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/Game.cpp.obj: ../model/Game.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/MyCodeV2.dir/model/Game.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Game.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Game.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Game.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Game.cpp
 
 CMakeFiles/MyCodeV2.dir/model/Game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/Game.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Game.cpp > CMakeFiles\MyCodeV2.dir\model\Game.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Game.cpp > CMakeFiles\MyCodeV2.dir\model\Game.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/Game.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Game.cpp -o CMakeFiles\MyCodeV2.dir\model\Game.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Game.cpp -o CMakeFiles\MyCodeV2.dir\model\Game.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.obj: ../model/MoveAction.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\MoveAction.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\MoveAction.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\MoveAction.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\MoveAction.cpp
 
 CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\MoveAction.cpp > CMakeFiles\MyCodeV2.dir\model\MoveAction.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\MoveAction.cpp > CMakeFiles\MyCodeV2.dir\model\MoveAction.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\MoveAction.cpp -o CMakeFiles\MyCodeV2.dir\model\MoveAction.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\MoveAction.cpp -o CMakeFiles\MyCodeV2.dir\model\MoveAction.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/Planet.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/Planet.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/Planet.cpp.obj: ../model/Planet.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/MyCodeV2.dir/model/Planet.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Planet.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Planet.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Planet.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Planet.cpp
 
 CMakeFiles/MyCodeV2.dir/model/Planet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/Planet.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Planet.cpp > CMakeFiles\MyCodeV2.dir\model\Planet.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Planet.cpp > CMakeFiles\MyCodeV2.dir\model\Planet.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/Planet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/Planet.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Planet.cpp -o CMakeFiles\MyCodeV2.dir\model\Planet.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Planet.cpp -o CMakeFiles\MyCodeV2.dir\model\Planet.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/Player.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/Player.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/Player.cpp.obj: ../model/Player.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/MyCodeV2.dir/model/Player.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Player.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Player.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Player.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Player.cpp
 
 CMakeFiles/MyCodeV2.dir/model/Player.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/Player.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Player.cpp > CMakeFiles\MyCodeV2.dir\model\Player.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Player.cpp > CMakeFiles\MyCodeV2.dir\model\Player.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/Player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/Player.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Player.cpp -o CMakeFiles\MyCodeV2.dir\model\Player.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Player.cpp -o CMakeFiles\MyCodeV2.dir\model\Player.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/Resource.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/Resource.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/Resource.cpp.obj: ../model/Resource.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/MyCodeV2.dir/model/Resource.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Resource.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Resource.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\Resource.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\Resource.cpp
 
 CMakeFiles/MyCodeV2.dir/model/Resource.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/Resource.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Resource.cpp > CMakeFiles\MyCodeV2.dir\model\Resource.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\Resource.cpp > CMakeFiles\MyCodeV2.dir\model\Resource.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/Resource.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/Resource.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Resource.cpp -o CMakeFiles\MyCodeV2.dir\model\Resource.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\Resource.cpp -o CMakeFiles\MyCodeV2.dir\model\Resource.cpp.s
 
 CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.obj: CMakeFiles/MyCodeV2.dir/flags.make
 CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.obj: CMakeFiles/MyCodeV2.dir/includes_CXX.rsp
 CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.obj: ../model/WorkerGroup.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Git\StudentsAICUP\MyCodeV2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.obj"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\WorkerGroup.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\WorkerGroup.cpp
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyCodeV2.dir\model\WorkerGroup.cpp.obj -c D:\Git\StudentsAICUP\MyCodeV2\model\WorkerGroup.cpp
 
 CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.i"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\WorkerGroup.cpp > CMakeFiles\MyCodeV2.dir\model\WorkerGroup.cpp.i
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\StudentsAICUP\MyCodeV2\model\WorkerGroup.cpp > CMakeFiles\MyCodeV2.dir\model\WorkerGroup.cpp.i
 
 CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.s"
-	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\WorkerGroup.cpp -o CMakeFiles\MyCodeV2.dir\model\WorkerGroup.cpp.s
+	D:\mingw-w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\StudentsAICUP\MyCodeV2\model\WorkerGroup.cpp -o CMakeFiles\MyCodeV2.dir\model\WorkerGroup.cpp.s
 
 # Object files for target MyCodeV2
 MyCodeV2_OBJECTS = \

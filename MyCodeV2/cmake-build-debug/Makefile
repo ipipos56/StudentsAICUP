@@ -129,17 +129,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named MyCodeV2
+# Target rules for targets named spb_ai_champ
 
 # Build rule for target.
-MyCodeV2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 MyCodeV2
-.PHONY : MyCodeV2
+spb_ai_champ: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 spb_ai_champ
+.PHONY : spb_ai_champ
 
 # fast build rule for target.
-MyCodeV2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/build
-.PHONY : MyCodeV2/fast
+spb_ai_champ/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/build
+.PHONY : spb_ai_champ/fast
 
 MyStrategy.obj: MyStrategy.cpp.obj
 
@@ -147,7 +147,7 @@ MyStrategy.obj: MyStrategy.cpp.obj
 
 # target to build an object file
 MyStrategy.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/MyStrategy.cpp.obj
 .PHONY : MyStrategy.cpp.obj
 
 MyStrategy.i: MyStrategy.cpp.i
@@ -156,7 +156,7 @@ MyStrategy.i: MyStrategy.cpp.i
 
 # target to preprocess a source file
 MyStrategy.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/MyStrategy.cpp.i
 .PHONY : MyStrategy.cpp.i
 
 MyStrategy.s: MyStrategy.cpp.s
@@ -165,7 +165,7 @@ MyStrategy.s: MyStrategy.cpp.s
 
 # target to generate assembly for a file
 MyStrategy.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/MyStrategy.cpp.s
 .PHONY : MyStrategy.cpp.s
 
 Stream.obj: Stream.cpp.obj
@@ -174,7 +174,7 @@ Stream.obj: Stream.cpp.obj
 
 # target to build an object file
 Stream.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/Stream.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/Stream.cpp.obj
 .PHONY : Stream.cpp.obj
 
 Stream.i: Stream.cpp.i
@@ -183,7 +183,7 @@ Stream.i: Stream.cpp.i
 
 # target to preprocess a source file
 Stream.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/Stream.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/Stream.cpp.i
 .PHONY : Stream.cpp.i
 
 Stream.s: Stream.cpp.s
@@ -192,7 +192,7 @@ Stream.s: Stream.cpp.s
 
 # target to generate assembly for a file
 Stream.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/Stream.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/Stream.cpp.s
 .PHONY : Stream.cpp.s
 
 TcpStream.obj: TcpStream.cpp.obj
@@ -201,7 +201,7 @@ TcpStream.obj: TcpStream.cpp.obj
 
 # target to build an object file
 TcpStream.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/TcpStream.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/TcpStream.cpp.obj
 .PHONY : TcpStream.cpp.obj
 
 TcpStream.i: TcpStream.cpp.i
@@ -210,7 +210,7 @@ TcpStream.i: TcpStream.cpp.i
 
 # target to preprocess a source file
 TcpStream.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/TcpStream.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/TcpStream.cpp.i
 .PHONY : TcpStream.cpp.i
 
 TcpStream.s: TcpStream.cpp.s
@@ -219,7 +219,7 @@ TcpStream.s: TcpStream.cpp.s
 
 # target to generate assembly for a file
 TcpStream.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/TcpStream.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/TcpStream.cpp.s
 .PHONY : TcpStream.cpp.s
 
 codegame/ClientMessage.obj: codegame/ClientMessage.cpp.obj
@@ -228,7 +228,7 @@ codegame/ClientMessage.obj: codegame/ClientMessage.cpp.obj
 
 # target to build an object file
 codegame/ClientMessage.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/codegame/ClientMessage.cpp.obj
 .PHONY : codegame/ClientMessage.cpp.obj
 
 codegame/ClientMessage.i: codegame/ClientMessage.cpp.i
@@ -237,7 +237,7 @@ codegame/ClientMessage.i: codegame/ClientMessage.cpp.i
 
 # target to preprocess a source file
 codegame/ClientMessage.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/codegame/ClientMessage.cpp.i
 .PHONY : codegame/ClientMessage.cpp.i
 
 codegame/ClientMessage.s: codegame/ClientMessage.cpp.s
@@ -246,7 +246,7 @@ codegame/ClientMessage.s: codegame/ClientMessage.cpp.s
 
 # target to generate assembly for a file
 codegame/ClientMessage.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/codegame/ClientMessage.cpp.s
 .PHONY : codegame/ClientMessage.cpp.s
 
 codegame/ServerMessage.obj: codegame/ServerMessage.cpp.obj
@@ -255,7 +255,7 @@ codegame/ServerMessage.obj: codegame/ServerMessage.cpp.obj
 
 # target to build an object file
 codegame/ServerMessage.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/codegame/ServerMessage.cpp.obj
 .PHONY : codegame/ServerMessage.cpp.obj
 
 codegame/ServerMessage.i: codegame/ServerMessage.cpp.i
@@ -264,7 +264,7 @@ codegame/ServerMessage.i: codegame/ServerMessage.cpp.i
 
 # target to preprocess a source file
 codegame/ServerMessage.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/codegame/ServerMessage.cpp.i
 .PHONY : codegame/ServerMessage.cpp.i
 
 codegame/ServerMessage.s: codegame/ServerMessage.cpp.s
@@ -273,7 +273,7 @@ codegame/ServerMessage.s: codegame/ServerMessage.cpp.s
 
 # target to generate assembly for a file
 codegame/ServerMessage.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/codegame/ServerMessage.cpp.s
 .PHONY : codegame/ServerMessage.cpp.s
 
 debugging/DebugCommand.obj: debugging/DebugCommand.cpp.obj
@@ -282,7 +282,7 @@ debugging/DebugCommand.obj: debugging/DebugCommand.cpp.obj
 
 # target to build an object file
 debugging/DebugCommand.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/debugging/DebugCommand.cpp.obj
 .PHONY : debugging/DebugCommand.cpp.obj
 
 debugging/DebugCommand.i: debugging/DebugCommand.cpp.i
@@ -291,7 +291,7 @@ debugging/DebugCommand.i: debugging/DebugCommand.cpp.i
 
 # target to preprocess a source file
 debugging/DebugCommand.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/debugging/DebugCommand.cpp.i
 .PHONY : debugging/DebugCommand.cpp.i
 
 debugging/DebugCommand.s: debugging/DebugCommand.cpp.s
@@ -300,7 +300,7 @@ debugging/DebugCommand.s: debugging/DebugCommand.cpp.s
 
 # target to generate assembly for a file
 debugging/DebugCommand.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/debugging/DebugCommand.cpp.s
 .PHONY : debugging/DebugCommand.cpp.s
 
 main.obj: main.cpp.obj
@@ -309,7 +309,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -318,7 +318,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -327,7 +327,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 model/Action.obj: model/Action.cpp.obj
@@ -336,7 +336,7 @@ model/Action.obj: model/Action.cpp.obj
 
 # target to build an object file
 model/Action.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Action.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Action.cpp.obj
 .PHONY : model/Action.cpp.obj
 
 model/Action.i: model/Action.cpp.i
@@ -345,7 +345,7 @@ model/Action.i: model/Action.cpp.i
 
 # target to preprocess a source file
 model/Action.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Action.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Action.cpp.i
 .PHONY : model/Action.cpp.i
 
 model/Action.s: model/Action.cpp.s
@@ -354,7 +354,7 @@ model/Action.s: model/Action.cpp.s
 
 # target to generate assembly for a file
 model/Action.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Action.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Action.cpp.s
 .PHONY : model/Action.cpp.s
 
 model/Building.obj: model/Building.cpp.obj
@@ -363,7 +363,7 @@ model/Building.obj: model/Building.cpp.obj
 
 # target to build an object file
 model/Building.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Building.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Building.cpp.obj
 .PHONY : model/Building.cpp.obj
 
 model/Building.i: model/Building.cpp.i
@@ -372,7 +372,7 @@ model/Building.i: model/Building.cpp.i
 
 # target to preprocess a source file
 model/Building.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Building.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Building.cpp.i
 .PHONY : model/Building.cpp.i
 
 model/Building.s: model/Building.cpp.s
@@ -381,7 +381,7 @@ model/Building.s: model/Building.cpp.s
 
 # target to generate assembly for a file
 model/Building.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Building.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Building.cpp.s
 .PHONY : model/Building.cpp.s
 
 model/BuildingAction.obj: model/BuildingAction.cpp.obj
@@ -390,7 +390,7 @@ model/BuildingAction.obj: model/BuildingAction.cpp.obj
 
 # target to build an object file
 model/BuildingAction.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingAction.cpp.obj
 .PHONY : model/BuildingAction.cpp.obj
 
 model/BuildingAction.i: model/BuildingAction.cpp.i
@@ -399,7 +399,7 @@ model/BuildingAction.i: model/BuildingAction.cpp.i
 
 # target to preprocess a source file
 model/BuildingAction.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingAction.cpp.i
 .PHONY : model/BuildingAction.cpp.i
 
 model/BuildingAction.s: model/BuildingAction.cpp.s
@@ -408,7 +408,7 @@ model/BuildingAction.s: model/BuildingAction.cpp.s
 
 # target to generate assembly for a file
 model/BuildingAction.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingAction.cpp.s
 .PHONY : model/BuildingAction.cpp.s
 
 model/BuildingProperties.obj: model/BuildingProperties.cpp.obj
@@ -417,7 +417,7 @@ model/BuildingProperties.obj: model/BuildingProperties.cpp.obj
 
 # target to build an object file
 model/BuildingProperties.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingProperties.cpp.obj
 .PHONY : model/BuildingProperties.cpp.obj
 
 model/BuildingProperties.i: model/BuildingProperties.cpp.i
@@ -426,7 +426,7 @@ model/BuildingProperties.i: model/BuildingProperties.cpp.i
 
 # target to preprocess a source file
 model/BuildingProperties.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingProperties.cpp.i
 .PHONY : model/BuildingProperties.cpp.i
 
 model/BuildingProperties.s: model/BuildingProperties.cpp.s
@@ -435,7 +435,7 @@ model/BuildingProperties.s: model/BuildingProperties.cpp.s
 
 # target to generate assembly for a file
 model/BuildingProperties.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingProperties.cpp.s
 .PHONY : model/BuildingProperties.cpp.s
 
 model/BuildingType.obj: model/BuildingType.cpp.obj
@@ -444,7 +444,7 @@ model/BuildingType.obj: model/BuildingType.cpp.obj
 
 # target to build an object file
 model/BuildingType.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingType.cpp.obj
 .PHONY : model/BuildingType.cpp.obj
 
 model/BuildingType.i: model/BuildingType.cpp.i
@@ -453,7 +453,7 @@ model/BuildingType.i: model/BuildingType.cpp.i
 
 # target to preprocess a source file
 model/BuildingType.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingType.cpp.i
 .PHONY : model/BuildingType.cpp.i
 
 model/BuildingType.s: model/BuildingType.cpp.s
@@ -462,7 +462,7 @@ model/BuildingType.s: model/BuildingType.cpp.s
 
 # target to generate assembly for a file
 model/BuildingType.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/BuildingType.cpp.s
 .PHONY : model/BuildingType.cpp.s
 
 model/DebugData.obj: model/DebugData.cpp.obj
@@ -471,7 +471,7 @@ model/DebugData.obj: model/DebugData.cpp.obj
 
 # target to build an object file
 model/DebugData.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/DebugData.cpp.obj
 .PHONY : model/DebugData.cpp.obj
 
 model/DebugData.i: model/DebugData.cpp.i
@@ -480,7 +480,7 @@ model/DebugData.i: model/DebugData.cpp.i
 
 # target to preprocess a source file
 model/DebugData.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/DebugData.cpp.i
 .PHONY : model/DebugData.cpp.i
 
 model/DebugData.s: model/DebugData.cpp.s
@@ -489,7 +489,7 @@ model/DebugData.s: model/DebugData.cpp.s
 
 # target to generate assembly for a file
 model/DebugData.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/DebugData.cpp.s
 .PHONY : model/DebugData.cpp.s
 
 model/FlyingWorkerGroup.obj: model/FlyingWorkerGroup.cpp.obj
@@ -498,7 +498,7 @@ model/FlyingWorkerGroup.obj: model/FlyingWorkerGroup.cpp.obj
 
 # target to build an object file
 model/FlyingWorkerGroup.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/FlyingWorkerGroup.cpp.obj
 .PHONY : model/FlyingWorkerGroup.cpp.obj
 
 model/FlyingWorkerGroup.i: model/FlyingWorkerGroup.cpp.i
@@ -507,7 +507,7 @@ model/FlyingWorkerGroup.i: model/FlyingWorkerGroup.cpp.i
 
 # target to preprocess a source file
 model/FlyingWorkerGroup.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/FlyingWorkerGroup.cpp.i
 .PHONY : model/FlyingWorkerGroup.cpp.i
 
 model/FlyingWorkerGroup.s: model/FlyingWorkerGroup.cpp.s
@@ -516,7 +516,7 @@ model/FlyingWorkerGroup.s: model/FlyingWorkerGroup.cpp.s
 
 # target to generate assembly for a file
 model/FlyingWorkerGroup.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/FlyingWorkerGroup.cpp.s
 .PHONY : model/FlyingWorkerGroup.cpp.s
 
 model/Game.obj: model/Game.cpp.obj
@@ -525,7 +525,7 @@ model/Game.obj: model/Game.cpp.obj
 
 # target to build an object file
 model/Game.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Game.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Game.cpp.obj
 .PHONY : model/Game.cpp.obj
 
 model/Game.i: model/Game.cpp.i
@@ -534,7 +534,7 @@ model/Game.i: model/Game.cpp.i
 
 # target to preprocess a source file
 model/Game.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Game.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Game.cpp.i
 .PHONY : model/Game.cpp.i
 
 model/Game.s: model/Game.cpp.s
@@ -543,7 +543,7 @@ model/Game.s: model/Game.cpp.s
 
 # target to generate assembly for a file
 model/Game.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Game.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Game.cpp.s
 .PHONY : model/Game.cpp.s
 
 model/MoveAction.obj: model/MoveAction.cpp.obj
@@ -552,7 +552,7 @@ model/MoveAction.obj: model/MoveAction.cpp.obj
 
 # target to build an object file
 model/MoveAction.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/MoveAction.cpp.obj
 .PHONY : model/MoveAction.cpp.obj
 
 model/MoveAction.i: model/MoveAction.cpp.i
@@ -561,7 +561,7 @@ model/MoveAction.i: model/MoveAction.cpp.i
 
 # target to preprocess a source file
 model/MoveAction.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/MoveAction.cpp.i
 .PHONY : model/MoveAction.cpp.i
 
 model/MoveAction.s: model/MoveAction.cpp.s
@@ -570,7 +570,7 @@ model/MoveAction.s: model/MoveAction.cpp.s
 
 # target to generate assembly for a file
 model/MoveAction.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/MoveAction.cpp.s
 .PHONY : model/MoveAction.cpp.s
 
 model/Planet.obj: model/Planet.cpp.obj
@@ -579,7 +579,7 @@ model/Planet.obj: model/Planet.cpp.obj
 
 # target to build an object file
 model/Planet.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Planet.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Planet.cpp.obj
 .PHONY : model/Planet.cpp.obj
 
 model/Planet.i: model/Planet.cpp.i
@@ -588,7 +588,7 @@ model/Planet.i: model/Planet.cpp.i
 
 # target to preprocess a source file
 model/Planet.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Planet.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Planet.cpp.i
 .PHONY : model/Planet.cpp.i
 
 model/Planet.s: model/Planet.cpp.s
@@ -597,7 +597,7 @@ model/Planet.s: model/Planet.cpp.s
 
 # target to generate assembly for a file
 model/Planet.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Planet.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Planet.cpp.s
 .PHONY : model/Planet.cpp.s
 
 model/Player.obj: model/Player.cpp.obj
@@ -606,7 +606,7 @@ model/Player.obj: model/Player.cpp.obj
 
 # target to build an object file
 model/Player.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Player.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Player.cpp.obj
 .PHONY : model/Player.cpp.obj
 
 model/Player.i: model/Player.cpp.i
@@ -615,7 +615,7 @@ model/Player.i: model/Player.cpp.i
 
 # target to preprocess a source file
 model/Player.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Player.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Player.cpp.i
 .PHONY : model/Player.cpp.i
 
 model/Player.s: model/Player.cpp.s
@@ -624,7 +624,7 @@ model/Player.s: model/Player.cpp.s
 
 # target to generate assembly for a file
 model/Player.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Player.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Player.cpp.s
 .PHONY : model/Player.cpp.s
 
 model/Resource.obj: model/Resource.cpp.obj
@@ -633,7 +633,7 @@ model/Resource.obj: model/Resource.cpp.obj
 
 # target to build an object file
 model/Resource.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Resource.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Resource.cpp.obj
 .PHONY : model/Resource.cpp.obj
 
 model/Resource.i: model/Resource.cpp.i
@@ -642,7 +642,7 @@ model/Resource.i: model/Resource.cpp.i
 
 # target to preprocess a source file
 model/Resource.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Resource.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Resource.cpp.i
 .PHONY : model/Resource.cpp.i
 
 model/Resource.s: model/Resource.cpp.s
@@ -651,7 +651,7 @@ model/Resource.s: model/Resource.cpp.s
 
 # target to generate assembly for a file
 model/Resource.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/Resource.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/Resource.cpp.s
 .PHONY : model/Resource.cpp.s
 
 model/WorkerGroup.obj: model/WorkerGroup.cpp.obj
@@ -660,7 +660,7 @@ model/WorkerGroup.obj: model/WorkerGroup.cpp.obj
 
 # target to build an object file
 model/WorkerGroup.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/WorkerGroup.cpp.obj
 .PHONY : model/WorkerGroup.cpp.obj
 
 model/WorkerGroup.i: model/WorkerGroup.cpp.i
@@ -669,7 +669,7 @@ model/WorkerGroup.i: model/WorkerGroup.cpp.i
 
 # target to preprocess a source file
 model/WorkerGroup.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/WorkerGroup.cpp.i
 .PHONY : model/WorkerGroup.cpp.i
 
 model/WorkerGroup.s: model/WorkerGroup.cpp.s
@@ -678,7 +678,7 @@ model/WorkerGroup.s: model/WorkerGroup.cpp.s
 
 # target to generate assembly for a file
 model/WorkerGroup.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCodeV2.dir\build.make CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\spb_ai_champ.dir\build.make CMakeFiles/spb_ai_champ.dir/model/WorkerGroup.cpp.s
 .PHONY : model/WorkerGroup.cpp.s
 
 # Help Target
@@ -689,7 +689,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... MyCodeV2
+	@echo ... spb_ai_champ
 	@echo ... MyStrategy.obj
 	@echo ... MyStrategy.i
 	@echo ... MyStrategy.s
