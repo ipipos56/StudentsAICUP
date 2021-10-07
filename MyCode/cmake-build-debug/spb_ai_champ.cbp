@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="spb_ai_champ"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spb_ai_champ">
+				<Option output="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/spb_ai_champ.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWIN32"/>
+					<Add directory="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 spb_ai_champ"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spb_ai_champ/fast">
+				<Option output="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/spb_ai_champ.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWIN32"/>
+					<Add directory="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 spb_ai_champ/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/MyStrategy.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/MyStrategy.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/Stream.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/Stream.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/TcpStream.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/TcpStream.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/codegame/ClientMessage.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/codegame/ClientMessage.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/codegame/ServerMessage.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/codegame/ServerMessage.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/debugging/DebugCommand.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/debugging/DebugCommand.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/main.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Action.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Action.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Building.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Building.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingAction.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingAction.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingProperties.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingProperties.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingType.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/BuildingType.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/DebugData.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/DebugData.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/FlyingWorkerGroup.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/FlyingWorkerGroup.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Game.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Game.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/MoveAction.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/MoveAction.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Planet.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Planet.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Player.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Player.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Resource.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/Resource.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/WorkerGroup.cpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/model/WorkerGroup.hpp">
+			<Option target="spb_ai_champ"/>
+		</Unit>
+		<Unit filename="C:/Users/ipipos56/Desktop/AI CUP/CodeSample/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

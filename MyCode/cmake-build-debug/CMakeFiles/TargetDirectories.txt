@@ -1,0 +1,3 @@
+C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir
+C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ipipos56/Desktop/AI CUP/CodeSample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
