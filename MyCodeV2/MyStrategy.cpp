@@ -1,4 +1,5 @@
 #include "MyStrategy.hpp"
+#include "myClasses/GraphMoving.cpp"
 #include <exception>
 #include <iostream>
 #include <set>
@@ -8,20 +9,21 @@ MyStrategy::MyStrategy() {}
 using namespace model;
 using namespace std;
 
-int distanceBetweenPlanets(Planet *firstPlanet, Planet *secondPlanet) {
-    return abs(firstPlanet->x - secondPlanet->x) + abs(firstPlanet->y - secondPlanet->y);
-}
-
 unordered_map<optional<Resource>, BuildingType> resoursesTypes;
 
-void initialization(const Game &game)
-{
+void initialization(const Game &game) {
+    GraphMoving::planetsGraphSetter(const_cast<Game &>(game));
     BuildingType type;
-    for(int i = 0; i < 10; i++ )
-    {
+    for (int i = 0; i < 9; i++) {
         type = static_cast<BuildingType>(i);
-        optional<Resource> tempResourse = game.buildingProperties.find(type)->second.produceResource;
-        resoursesTypes.insert(make_pair(tempResourse, type));
+        if (game.buildingProperties.find(type) != game.buildingProperties.end()) {
+            optional<Resource> tempResourse = game.buildingProperties.find(type)->second.produceResource;
+            if (tempResourse.has_value()) {
+                resoursesTypes.insert(make_pair(tempResourse, type));
+                cout << resourceToString(tempResourse.value_or(Resource::NO)) << " " << buildingTypeToString(type)
+                     << endl;
+            }
+        }
     }
 }
 
@@ -30,12 +32,20 @@ bool init = false;
 set<int> usedPlanets;
 
 Action MyStrategy::getAction(const Game &game) {
-    if (!init)
-    {
+    if (!init) {
         init = true;
         initialization(game);
+        Planet pl1 = game.planets[0];
+        Planet pl2 = game.planets[50];
+        vector<int> answ;
+        answ = GraphMoving::dijkstraPathFinder(&pl1, &pl2);
+        for(int i = 0;i<answ.size();i++)
+        {
+            cout<<answ[i]<<" ";
+        }
+        cout<<endl;
     }
-    if (!check) {
+    if (check) {
         //check = true;
         int myGameIndex = game.myIndex;
         vector<Planet> freePlanets;
@@ -61,11 +71,10 @@ Action MyStrategy::getAction(const Game &game) {
                     }
                 }
             }
-            if (planet.building == nullopt)
-            {
-                if (resoursesTypes.find(planet.harvestableResource) != resoursesTypes.end())
-                {
-                    build.emplace_back(BuildingAction(planet.id,resoursesTypes[planet.harvestableResource]));
+            if (planet.building == nullopt && haveWorkers) {
+                if (resoursesTypes.find(planet.harvestableResource) != resoursesTypes.end()) {
+                    //cout<<planet.id<<" "<<buildingTypeToString(resoursesTypes[planet.harvestableResource])<<endl;
+                    build.emplace_back(BuildingAction(planet.id, resoursesTypes[planet.harvestableResource]));
                 }
             }
         }
@@ -75,7 +84,7 @@ Action MyStrategy::getAction(const Game &game) {
             Planet *minPlanet;
             for (int j = 0; j < freePlanets.size(); ++j) {
                 if (usedPlanets.find(freePlanets[j].id) == usedPlanets.end()) {
-                    int tempDistance = distanceBetweenPlanets(&freePlanets[j],
+                    int tempDistance = GraphMoving::distanceBetweenPlanets(&freePlanets[j],
                                                               &myWorkerGroupsPlanets[i]);
                     //cout<<freePlanets[j]->planet->x<<" "<<freePlanets[j]->planet->y<<endl;
                     if (tempDistance < minPlanetDistance) {
@@ -86,14 +95,14 @@ Action MyStrategy::getAction(const Game &game) {
                 }
             }
             if (freePlanetMinIndex != -1) {
-                if (myWorkerGroups[i].number > 20) {
+                if (myWorkerGroups[i].number > 50) {
                     /*cout << myWorkerGroups[i].number << " " << myWorkerGroupsPlanets[i].x
                          << " " << myWorkerGroupsPlanets[i].y << " " << minPlanet->x
                          << " " << minPlanet->y << endl;*/
                     if (minPlanet->harvestableResource != nullopt) {
                         moves.emplace_back(
                                 MoveAction(myWorkerGroupsPlanets[i].id, minPlanet->id,
-                                           20,
+                                           50,
                                            Resource::STONE));
                     } else {
                         moves.emplace_back(
@@ -101,11 +110,11 @@ Action MyStrategy::getAction(const Game &game) {
                                            10,
                                            nullopt));
                     }
-                    //usedPlanets.insert(minPlanet->index);
+                    usedPlanets.insert(minPlanet->id);
                 }
             }
         }
-        return Action(moves, vector<BuildingAction>());
+        return Action(moves, build);
     }
     return Action(vector<MoveAction>(), vector<BuildingAction>());
 }

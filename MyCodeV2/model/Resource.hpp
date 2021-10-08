@@ -24,7 +24,9 @@ enum class Resource {
     // TODO - Document
     CHIP = 7,
     // TODO - Document
-    ACCUMULATOR = 8
+    ACCUMULATOR = 8,
+    // TODO - Document
+    NO = 9
 };
 
 // Read Resource from input stream
