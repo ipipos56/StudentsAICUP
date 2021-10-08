@@ -7,11 +7,220 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b30bfeec-189b-4856-9961-2a5069128728" name="Default Changelist" comment="" />
+    <list default="true" id="b30bfeec-189b-4856-9961-2a5069128728" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CodeSample/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/.idea/CodeSample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/.idea/CodeSample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/includes_CXX.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/linklibs.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/spb_ai_champ.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSample/cmake-build-debug/spb_ai_champ.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/.idea/CodeSample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/.idea/CodeSample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/MyStrategy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/MyStrategy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/includes_CXX.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/linklibs.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyCode/cmake-build-debug/spb_ai_champ.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCode/cmake-build-debug/spb_ai_champ.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyCodeV2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyCodeV2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyStrategy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MyStrategy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyStrategy.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/MyStrategy.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stream.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Stream.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stream.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Stream.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TcpStream.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TcpStream.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TcpStream.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/TcpStream.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/MyStrategy.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/Stream.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/TcpStream.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/codegame/ClientMessage.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/codegame/ServerMessage.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/debugging/DebugCommand.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/includes_CXX.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/Action.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/Building.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/BuildingAction.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/BuildingProperties.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/BuildingType.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/DebugData.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/FlyingWorkerGroup.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/Game.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/MoveAction.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/Planet.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/Player.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/Resource.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/model/WorkerGroup.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MyCodeV2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/MyStrategy.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/MyStrategy.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/Stream.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/Stream.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/TcpStream.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/TcpStream.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/codegame/ClientMessage.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/codegame/ClientMessage.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/codegame/ServerMessage.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/codegame/ServerMessage.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/debugging/DebugCommand.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/debugging/DebugCommand.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/includes_CXX.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/linklibs.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Action.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Action.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Building.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Building.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingAction.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingAction.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingProperties.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingProperties.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingType.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/BuildingType.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/DebugData.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/DebugData.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/FlyingWorkerGroup.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/FlyingWorkerGroup.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Game.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Game.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/MoveAction.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/MoveAction.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Planet.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Planet.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Player.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Player.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Resource.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/Resource.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/WorkerGroup.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/model/WorkerGroup.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spb_ai_champ.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MyCodeV2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/MyCodeV2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/spb_ai_champ.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/spb_ai_champ.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/spb_ai_champ.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/spb_ai_champ.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codegame/ClientMessage.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codegame/ClientMessage.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codegame/ClientMessage.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/codegame/ClientMessage.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codegame/ServerMessage.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codegame/ServerMessage.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codegame/ServerMessage.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/codegame/ServerMessage.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debugging/DebugCommand.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/debugging/DebugCommand.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debugging/DebugCommand.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/debugging/DebugCommand.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Action.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Action.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Action.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Action.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Building.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Building.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Building.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Building.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/BuildingAction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/BuildingAction.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/BuildingAction.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/BuildingAction.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/BuildingProperties.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/BuildingProperties.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/BuildingProperties.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/BuildingProperties.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/BuildingType.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/BuildingType.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/BuildingType.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/BuildingType.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/DebugData.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/DebugData.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/DebugData.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/DebugData.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/FlyingWorkerGroup.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/FlyingWorkerGroup.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/FlyingWorkerGroup.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/FlyingWorkerGroup.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Game.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Game.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Game.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/MoveAction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/MoveAction.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/MoveAction.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/MoveAction.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Planet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Planet.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Planet.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Planet.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Player.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Player.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Player.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Player.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Resource.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Resource.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Resource.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/Resource.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/WorkerGroup.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/WorkerGroup.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/WorkerGroup.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/model/WorkerGroup.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testSystem/preferences.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testSystem/preferences.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,14 +248,9 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="language.cpp.clangd" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -55,6 +259,11 @@
     <configuration name="spb_ai_champ" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spb_ai_champ" TARGET_NAME="spb_ai_champ" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="spb_ai_champ" RUN_TARGET_NAME="spb_ai_champ">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -69,6 +278,7 @@
       <workItem from="1633637724781" duration="170000" />
       <workItem from="1633637904360" duration="402000" />
       <workItem from="1633641184042" duration="9486000" />
+      <workItem from="1633652096483" duration="3944000" />
     </task>
     <servers />
   </component>
